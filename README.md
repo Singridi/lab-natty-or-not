@@ -1,4 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natural ou Fake Natty? Uso de IAs para se inspirar nas artes manuais ou decorações de ambiente.
 
 ## 📒 Descrição
 Com a ajuda da IA Generativa podemos dar asas a nossa imaginação, seja em criações artesanais ou 
